@@ -1,0 +1,2 @@
+massege = "Бибизян"
+print(massege)
